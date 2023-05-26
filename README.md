@@ -1,4 +1,4 @@
-### Hi there 👋
+Scratch: https://scratch.mit.edu/users/ACinfinityMC/
 
 <!--
 **ACinfinityMC/ACinfinityMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
